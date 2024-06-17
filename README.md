@@ -1,4 +1,4 @@
-![logo](https://github.com/aishwaryaishu009/aishwaryaishu009/blob/main/image.png)
+![logo](https://github.com/aishwaryaishu009/aishwaryaishu009/blob/main/imge2.jpg)
 <h1 align="center">Hi 👋, I'm Aishwarya Bhukya</h1>
 <h3 align="center">I am passionate about data analysis, data science, machine learning, and natural language processing (NLP). I enjoy diving deep into data to uncover meaningful insights and developing predictive models that drive informed decision-making. My enthusiasm for these fields propels me to continuously learn and apply innovative techniques to tackle complex challenges and optimize solutions.</h3>
 
