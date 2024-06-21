@@ -1,11 +1,13 @@
 ![logo](https://github.com/aishwaryaishu009/aishwaryaishu009/blob/main/imge2.jpg)
 <h1 align="center">Hi 👋, I'm Aishwarya Bhukya</h1>
-<h3 align="center"> I'm passionate about transforming ideas into innovative solutions through the power of code. As a dedicated software developer, I am const</h3>
+<h3 align="center">Hello! I'm an undergraduate engineering student passionate about technology and innovation. I have completed a Full Stack Developer program, building a solid foundation in web development. Now, I am pivoting towards data science, aiming to leverage my programming skills and analytical mindset to uncover insights and drive impactful decisions. As a fresher, I am seeking internships and entry-level positions in data science to contribute to meaningful projects and grow professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryaishu009&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryaishu009" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwaryaishu009" alt="aishwaryaishu009" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40"
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently pursuing **B Tech in CSE(Data Science)**
 
 - 📫 How to reach me **aishwaryarathod19.b@gmail.com**
@@ -13,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aishwarya003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya003" height="30" width="40" /></a>
+<a href="https://discord.gg/aishwarya009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aishwarya009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryaishu009&show_icons=true&locale=en&layout=compact" alt="aishwaryaishu009" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishwaryaishu009&show_icons=true&locale=en" alt="aishwaryaishu009" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryaishu009&" alt="aishwaryaishu009" /></p>
+
